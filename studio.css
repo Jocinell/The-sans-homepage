@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://images.pexels.com/photos/1061140/pexels-photo-1061140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    
+
+    
+    
+}
+
+#container{
+    width: 80%;
+    margin: 10px auto;
+    background: #fff;
+}
+#container-logo{}
+#logo{
+    display: inline;
+    padding: 10px;
+}
+
+#logo h1{
+    display: inline;
+    font-size: 30px;
+    vertical-align: top;
+    width: 50px;
+    height: 50px;
+    margin-top: 15px;
+    background-color: #963e03;
+    background-image: linear-gradient(to top,#2b0325 0%, #f819f8 80%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    
+    
+}
+
+#items {
+text-align: center;
+height: 80px;
+
+}
+
+#items li {
+    
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    
+}
+#item-right ul{
+    list-style: none;
+    float: right;
+
+}
+
+}
+#item-right li{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    float: right;
+}
+
+
+
+   
+#content-info{
+    font-size: 50px;
+    text-align: end;
+    color: #360438;
+    padding-right: 60px;
+}
+
+#studio-image img{
+    margin: 0;
+    display: inline;
+}
+
+#studio-image p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+}
